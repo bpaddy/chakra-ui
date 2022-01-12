@@ -1,29 +1,11 @@
-# chakra-ui
 
 ---
-__Advertisement :)__
+# Using chakra-ui - test__
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
+A quick test using ChakraUI and NextJS
 
-You will like those projects!
+- __[ChakraUI](https://chakra-ui.com/guides/with-nextjs)__ 
+- __[NextJS](https://nextjs.org/)__
+
 
 ---
-
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
-
-## Horizontal Rules
-
-___
-
----
-
-***
